@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:56284,
-to:56373,
+from:56464,
+to:56553,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -1106,8 +1106,8 @@ vb:[-1,-1,2,2]
 Slide8941:{
 lb:'Intro',
 id:8941,
-from:56374,
-to:56463,
+from:56554,
+to:56643,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -2576,9 +2576,9 @@ uid:1253,
 dn:'Slide1253',
 visible:'1'
 },
-StAd48:{
-from:56464,
-to:56552,
+StAd54:{
+from:56644,
+to:56732,
 src:'ar/14805.mp3',
 du:3000,
 saup:[{
@@ -18427,9 +18427,9 @@ uid:2334,
 dn:'Slide2334',
 visible:'1'
 },
-StAd49:{
-from:56464,
-to:56552,
+StAd55:{
+from:56644,
+to:56732,
 src:'ar/14807.mp3',
 du:3000,
 saup:[{
@@ -31659,10 +31659,10 @@ uid:5190,
 dn:'Slide5190',
 visible:'1'
 },
-StAd51:{
-from:56464,
-to:56641,
-src:'ar/StAd50.mp3',
+StAd57:{
+from:56644,
+to:56821,
+src:'ar/StAd56.mp3',
 du:6000,
 saup:[{
 sn:8504,
@@ -72354,10 +72354,10 @@ uid:14082,
 dn:'Slide14082',
 visible:'1'
 },
-StAd53:{
-from:56464,
-to:56908,
-src:'ar/StAd52.mp3',
+StAd59:{
+from:56644,
+to:57088,
+src:'ar/StAd58.mp3',
 du:15000,
 saup:[{
 sn:11093,
@@ -72927,7 +72927,7 @@ dsType:1,
 dsWidth:80
 }
 ,
-slideAudios:'StAd48,StAd49,StAd51,StAd53',
+slideAudios:'StAd54,StAd55,StAd57,StAd59',
 vestr:1,
 vim:0,
 slides:'Slide8941,Slide1253,Slide1365,Slide2334,Slide3300,Slide8504,Slide5190,Slide5761,Slide10077,Slide11093,Slide12436,Slide13274,Slide13386,Slide14082',
@@ -73903,14 +73903,14 @@ resources:['ar/14807.mp3']
 ,{
 slideID:7,
 ResourceList:{
-resources:['ar/StAd50.mp3']
+resources:['ar/StAd56.mp3']
 }
 
 }
 ,{
 slideID:14,
 ResourceList:{
-resources:['ar/StAd52.mp3']
+resources:['ar/StAd58.mp3']
 }
 
 }
@@ -73927,8 +73927,8 @@ cp.model.tocVideos=[
 cp.model.audios=[
 'ar/14805.mp3',
 'ar/14807.mp3',
-'ar/StAd50.mp3',
-'ar/StAd52.mp3'
+'ar/StAd56.mp3',
+'ar/StAd58.mp3'
 ];
 
 cp.initVariables = function(){
